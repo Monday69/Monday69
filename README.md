@@ -9,7 +9,7 @@
 | Projet | Description | Stack |
 | --- | --- | --- |
 | [**BarOS**](https://github.com/Monday69/BarOS_V4) | Bar à cocktails automatisé sur Raspberry Pi : dosage par la loi de Torricelli sur 12 pompes, paiement Stripe et NFC, PWA temps réel | Python, FastAPI, React, Docker |
-| [**BIBLIA-TECH**](https://github.com/Monday69/BIBLIA-TECH) | Audit d'inventaire de bibliothèque par vision : segmentation YOLO des tranches, OCR, réconciliation avec le catalogue (303 livres audités sur 18 étagères) | YOLO, PaddleOCR, OpenCV, FastAPI, React |
+| [**BIBLIA-TECH**](https://github.com/Monday69/BIBLIA-TECH) | Audit d'inventaire de bibliothèque par vision : segmentation YOLO des tranches, OCR, réconciliation avec le catalogue (testé sur 276 tranches, base de 303 livres répartis sur 18 étagères) | YOLO, PaddleOCR, OpenCV, FastAPI, React |
 | [**trocr-book-spines**](https://github.com/Monday69/trocr-book-spines) | Expérimentation pour BIBLIA-TECH : 76 500 tranches de livres synthétiques et fine-tuning TrOCR, avec analyse de son échec sur données réelles | PyTorch, Hugging Face |
 | **Jarvis Runner** *(privé)* | Coach multisport : charge, HRV, dérive cardiaque, planification déterministe et coach IA (le LLM n'est jamais la source de vérité) | FastAPI, PostgreSQL, React, LLM |
 | **ESME TwinAir** *(PFE en cours)* | Jumeau numérique de la qualité de l'air : capteurs IoT, détection d'anomalies, prévision, campus 3D en VR | FastAPI, IoT, Unity |
