@@ -28,4 +28,4 @@
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/matteo-bombrun) · matteo.bombrun@esme.fr
+[LinkedIn](https://www.linkedin.com/in/matt%C3%A9o-bombrun-b67993257/) · matteo.bombrun@esme.fr
