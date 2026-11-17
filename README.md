@@ -22,10 +22,10 @@
 
 ## Compétences
 
-**Langages** : Python, TypeScript, SQL, C#, C++ (bases)
-**IA** : agents LLM, Ollama, vision (YOLO, OpenCV), deep learning, MLOps
-**Web & back-end** : FastAPI, React, Three.js (R3F), Node.js, Prisma, PostgreSQL
-**Déploiement & outils** : Docker, Caddy, VPS Linux, Git, GitLab CI, pytest, Raspberry Pi
+- **Langages** : Python, TypeScript, SQL, C#, C++ (bases)
+- **IA** : agents LLM, Ollama, vision (YOLO, OpenCV), deep learning, MLOps
+- **Web & back-end** : FastAPI, React, Three.js (R3F), Node.js, Prisma, PostgreSQL
+- **Déploiement & outils** : Docker, Caddy, VPS Linux, Git, GitLab CI, pytest, Raspberry Pi
 
 ## Contact
 
