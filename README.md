@@ -2,7 +2,7 @@
 
 Élève-ingénieur en intelligence artificielle à l'**ESME Paris** (diplôme 2027). Je construis des systèmes complets, du capteur et de la donnée jusqu'au produit utilisé en production : agents LLM, vision par ordinateur, IoT et full-stack.
 
-> 🔎 **Je recherche un stage de fin d'études de 6 mois à partir d'avril 2027, à Lyon ou Grenoble**, en ingénierie IA appliquée (agents LLM, vision par ordinateur, IoT et embarqué).
+>  **Je recherche un stage de fin d'études de 6 mois à partir d'avril 2027, à Lyon ou Grenoble**, en ingénierie IA appliquée (agents LLM, vision par ordinateur, IoT et embarqué).
 
 ## Projets
 
